@@ -83,7 +83,7 @@
     <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 10px" />
   </a>
   <a href=\"https://expressjs.com/\" target=\"_blank\">
-    <img src=\"https://profilinator.rishav.dev/skills-assets/expressjs-icon-light.svg\" alt=\"Express.js\" height=\"50\" style=\"margin: 10px\" />
+    <img src=\"https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg\" alt=\"Express.js\" height=\"50\" style=\"background-color: white; padding: 5px; border-radius: 5px; margin: 10px\" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px" />
