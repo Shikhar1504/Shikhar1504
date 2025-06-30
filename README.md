@@ -19,7 +19,7 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=algolia&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review&margin-w=15&margin-h=15&column=3" alt="GitHub Trophies" /> </a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=dracula&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review" alt="GitHub Trophies" /> </a> </p>
 
 ---
 
