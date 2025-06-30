@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=gruvbox" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=algolia&title=Commit,Issue,PullRequest,Repositories,Stars&margin-w=15&margin-h=15&column=3" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
