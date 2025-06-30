@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
-<h3 align="center">Competitive Programmer and Full-Stack Developer</h3>
+<h3 align="center">💻 Competitive Programmer | 🔧 Full-Stack Developer | 🔍 Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently diving deeper into **Data Structures & Algorithms (DSA)** and mastering the **MERN Stack**
+- 💡 I love solving real-world problems through code and building full-stack projects
+- 🧠 Passionate about **Competitive Programming**, Web Dev & Open Source
+- 💬 Ask me about anything **MERN stack, React, Node.js, or CP-related**
+- 📫 Reach me at: **shikharsinha117@gmail.com**
+
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,100 +25,91 @@
   </a>
 </p>
 
-
 ---
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and the MERN stack**
-- 💬 Ask me about **MERN stack, competitive programming, or related technologies**
-- 📫 Reach me at **shikharsinha117@gmail.com**
+### 🌐 Connect with Me
 
----
-
-<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/shikharsinha154" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/shikharsinha117" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/shikhar0105" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠 My Skill Set
+### 🛠 Tech Stack
 
-### 🌐 Languages
-<div align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px" />
-  </a>
-</div>
+#### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-### 🎨 Frontend Development
-<div align="center">  
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="50" style="margin: 10px" />
-  </a>
-</div>
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### 🔧 Backend Development
-<div align="center">  
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank\">
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="background-color: white; padding: 5px; border-radius: 5px; margin: 10px" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" style="margin: 10px" />
-  </a>
+#### 🔧 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 📂 Projects
+
+Here are a few things I've built:
+
+- 🛒 **MERN E-Commerce** – Full-featured online store with payments and JWT auth.
+- 📅 **Scheduler App** – Calendar app using MongoDB and React.
+- 📊 **CP Tracker** – Track Codeforces + LeetCode stats via API + chart.js
+
+> 🧩 *More on my GitHub pinned repos!*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&theme=algolia" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 🔥 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shikhar1504&theme=react-dark&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🧠 Fun Fact
+> I debug code like a detective on a crime scene — one console log at a time 🕵️‍♂️
+
+---
