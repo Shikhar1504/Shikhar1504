@@ -108,8 +108,9 @@ Here are a few things I've built:
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shikhar1504&theme=react-dark&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=react-dark" alt="Contribution Graph"/>
 </p>
+
 
 ---
 
