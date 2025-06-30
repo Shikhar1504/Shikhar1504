@@ -80,9 +80,14 @@
 
 Here are a few things I've built:
 
-- 🛒 **MERN E-Commerce** – Full-featured online store with payments and JWT auth.
-- 📅 **Scheduler App** – Calendar app using MongoDB and React.
-- 📊 **CP Tracker** – Track Codeforces + LeetCode stats via API + chart.js
+- 🧠 **AI Learning Management System** – AI-powered LMS platform for interactive learning and progress tracking.
+- 🛍️ **Walmart FullStack** – Scalable e-commerce replica with full MERN stack and user authentication.
+- 💼 **Portfolio (FullStack)** – Fully responsive personal portfolio with dashboard and backend (MERN).
+- 🩺 **Doctors Appointment Platform** – Book, manage, and track appointments with a full backend + UI system.
+- ✍️ **AuroraBlog** – A sleek, minimal blog platform for writing and reading articles.
+- 📹 **MovieFlix** – Movie showcase site with a clean UI built using HTML/CSS and animations.
+- 📚 **Booklog** – Track, review, and organize your favorite reads.
+- 🎮 **Space Game** – A fun, browser-based JavaScript space shooter game.
 
 > 🧩 *More on my GitHub pinned repos!*
 
