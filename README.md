@@ -139,7 +139,8 @@
   A customizable animated React component for interactive space backgrounds — published on npm.
 
     </td>
-    <td width="50%" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;  
+    <td width="50%" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;  
 - 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
   A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
 
