@@ -122,6 +122,10 @@
 
 ### 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
 - 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
   An AI-powered LMS that generates courses, notes, flashcards, and quizzes using **Gemini, Stripe, Clerk, Drizzle ORM, and Next.js**.
 
@@ -129,11 +133,14 @@
   A telemedicine platform with **AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design**.
 
 - 🔌 [YouTube AI Summary — Chrome Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)  
-  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts for faster consumption.
+  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts.
 
 - 🌌 [Space Background (NPM Package)](https://www.npmjs.com/package/space-background)  
   A customizable animated React component for interactive space backgrounds — published on npm.
 
+    </td>
+    <td width="50%" valign="top">
+      
 - 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
   A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
 
@@ -148,6 +155,10 @@
 
 - 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
   A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
