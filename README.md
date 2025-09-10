@@ -125,49 +125,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      
+- 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
+  An AI-powered LMS that generates courses, notes, flashcards, and quizzes using **Gemini, Stripe, Clerk, Drizzle ORM, and Next.js**.
 
-<ul>
-  <li>🧠 <a href="https://learnforgeai.vercel.app/">AI Learning Management System</a><br>
-  An AI-powered LMS that generates courses, notes, flashcards, and quizzes using <b>Gemini, Stripe, Clerk, Drizzle ORM, and Next.js</b>.
-  </li><br>
+- 🏥 [CareMeet – Doctors Appointment Platform](https://caremeet.vercel.app/)  
+  A telemedicine platform with **AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design**.
 
-  <li>🏥 <a href="https://caremeet.vercel.app/">CareMeet – Doctors Appointment Platform</a><br>
-  A telemedicine platform with <b>AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design</b>.
-  </li><br>
+- 🔌 [YouTube AI Summary — Chrome Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)  
+  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts.
 
-  <li>🔌 <a href="https://github.com/shikhar1504/youtube-ai-summary-chrome-extension">YouTube AI Summary — Chrome Extension</a><br>
-  A Chrome extension that uses the <b>Google Gemini API</b> to generate AI-powered summaries of YouTube video transcripts.
-  </li><br>
-
-  <li>🌌 <a href="https://www.npmjs.com/package/space-background">Space Background (NPM Package)</a><br>
+- 🌌 [Space Background (NPM Package)](https://www.npmjs.com/package/space-background)  
   A customizable animated React component for interactive space backgrounds — published on npm.
-  </li>
-</ul>
 
     </td>
     <td width="50%" valign="top">
+      
+- 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
+  A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
 
-<ul>
-  <li>🎮 <a href="https://shikhar1504.github.io/space-game/">Space Game</a><br>
-  A browser-based space shooter game built with <b>HTML, CSS, and JavaScript</b> (asteroids, scoring, health).
-  </li><br>
+- ✍️ [Aurora Blog](https://aurora-blogs.netlify.app/)  
+  Full-stack MERN blog app with **authentication, author dashboards, and dark/light mode**.
 
-  <li>✍️ <a href="https://aurora-blogs.netlify.app/">Aurora Blog</a><br>
-  Full-stack MERN blog app with <b>authentication, author dashboards, and dark/light mode</b>.
-  </li><br>
+- 📚 [Booklog](https://booklog-phi.vercel.app/)  
+  A web app to manage and review books using **Node.js, Express, EJS, and PostgreSQL**.
 
-  <li>📚 <a href="https://booklog-phi.vercel.app/">Booklog</a><br>
-  A web app to manage and review books using <b>Node.js, Express, EJS, and PostgreSQL</b>.
-  </li><br>
+- 🎬 [MovieFlix](https://movie-flix-shikhar.vercel.app/)  
+  Movie & TV explorer powered by the **TMDb API** with search and detail pages.
 
-  <li>🎬 <a href="https://movie-flix-shikhar.vercel.app/">MovieFlix</a><br>
-  Movie & TV explorer powered by the <b>TMDb API</b> with search and detail pages.
-  </li><br>
-
-  <li>🌧️ <a href="https://github.com/shikhar1504/Rainfall-Prediction">Rainfall Prediction</a><br>
-  A machine learning project that predicts rainfall using a <b>Random Forest classifier</b> and meteorological features.
-  </li>
-</ul>
+- 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
+  A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
 
     </td>
   </tr>
