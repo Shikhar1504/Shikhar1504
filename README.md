@@ -124,8 +124,8 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="padding-right: 20px; padding-left: 10px;">
-      
+    <td width="50%" valign="top">
+
 - 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
   An AI-powered LMS that generates courses, notes, flashcards, and quizzes using **Gemini, Stripe, Clerk, Drizzle ORM, and Next.js**.
 
@@ -139,22 +139,22 @@
   A customizable animated React component for interactive space backgrounds — published on npm.
 
     </td>
-    <td width="50%" valign="top" style="padding-left: 20px; padding-right: 10px;">
-      
-- 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
-  A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
+    <td width="50%" valign="top">
 
-- ✍️ [Aurora Blog](https://aurora-blogs.netlify.app/)  
-  Full-stack MERN blog app with **authentication, author dashboards, and dark/light mode**.
+&nbsp;&nbsp;&nbsp; - 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
+&nbsp;&nbsp;&nbsp;&nbsp; A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
 
-- 📚 [Booklog](https://booklog-phi.vercel.app/)  
-  A web app to manage and review books using **Node.js, Express, EJS, and PostgreSQL**.
+&nbsp;&nbsp;&nbsp; - ✍️ [Aurora Blog](https://aurora-blogs.netlify.app/)  
+&nbsp;&nbsp;&nbsp;&nbsp; Full-stack MERN blog app with **authentication, author dashboards, and dark/light mode**.
 
-- 🎬 [MovieFlix](https://movie-flix-shikhar.vercel.app/)  
-  Movie & TV explorer powered by the **TMDb API** with search and detail pages.
+&nbsp;&nbsp;&nbsp; - 📚 [Booklog](https://booklog-phi.vercel.app/)  
+&nbsp;&nbsp;&nbsp;&nbsp; A web app to manage and review books using **Node.js, Express, EJS, and PostgreSQL**.
 
-- 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
-  A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
+&nbsp;&nbsp;&nbsp; - 🎬 [MovieFlix](https://movie-flix-shikhar.vercel.app/)  
+&nbsp;&nbsp;&nbsp;&nbsp; Movie & TV explorer powered by the **TMDb API** with search and detail pages.
+
+&nbsp;&nbsp;&nbsp; - 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
+&nbsp;&nbsp;&nbsp;&nbsp; A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
 
     </td>
   </tr>
