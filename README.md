@@ -141,7 +141,7 @@
     </td>
     <td width="50%" valign="top">
       
-- 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
+&nbsp;&nbsp;&nbsp;&nbsp;- 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
   A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
 
 - ✍️ [Aurora Blog](https://aurora-blogs.netlify.app/)  
