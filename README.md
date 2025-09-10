@@ -124,7 +124,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px; padding-left: 10px;">
       
 - 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
   An AI-powered LMS that generates courses, notes, flashcards, and quizzes using **Gemini, Stripe, Clerk, Drizzle ORM, and Next.js**.
@@ -139,7 +139,7 @@
   A customizable animated React component for interactive space backgrounds — published on npm.
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 20px; padding-right: 10px;">
       
 - 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
   A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
