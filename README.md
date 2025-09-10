@@ -18,6 +18,12 @@
 
 ---
 
+### 🧠 Fun Fact
+
+> I approach debugging like solving a mystery novel — each console.log is a clue leading to the solution! 🕵️‍♂️
+
+---
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -103,32 +109,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&theme=algolia" alt="GitHub Streak" />
-</div>
-
----
-
-### 🔥 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🧠 Fun Fact
-
-> I approach debugging like solving a mystery novel — each console.log is a clue leading to the solution! 🕵️‍♂️
-
----
-
 ### 💬 Let's Discuss:
 
 - 🔧 Full-Stack Development with MERN Stack and Next.js
@@ -147,6 +127,26 @@
 - 🤖 AI/ML model integration and development
 - 📈 Building scalable, modular codebases
 
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&theme=algolia" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🔥 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=react-dark" alt="Contribution Graph"/>
+</p>
 
 ---
 
