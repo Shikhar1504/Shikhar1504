@@ -42,6 +42,9 @@
   <a href="https://www.leetcode.com/shikhar0105" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://www.codechef.com/users/shikharsinha15" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -68,6 +71,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 #### 🔧 Backend & Databases
@@ -79,6 +83,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white" />
 </p>
 
 #### 🤖 AI & Machine Learning
@@ -90,6 +95,7 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random_Forest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 #### 🛠 Development Tools
@@ -101,76 +107,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C58E?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
-
----
-
-### 📂 My Projects Showcase
-
-Here are some of my key projects that demonstrate my skills across different domains:
-
-#### 🚀 AI-Powered Applications
-
-- **AI Learning Management System** - An intelligent LMS that uses Google Gemini API to generate personalized courses, notes, flashcards, and quizzes. Features Stripe integration for payments and Clerk for authentication.
-
-  - _Tech: Next.js, Stripe, Clerk, Inngest, Drizzle ORM, Gemini API_
-  - [🔗 Repository](https://github.com/shikhar1504/AI_Learning_Management_System)
-
-- **Doctors Appointment Platform (CareMeet)** - A comprehensive telemedicine solution with AI-powered symptom analysis using Google Gemini, video consultations via Vonage, and HIPAA-compliant design.
-
-  - _Tech: Next.js 15, Gemini API, Vonage Video API, Clerk, Neon DB_
-  - [🔗 Repository](https://github.com/shikhar1504/Doctors_Appointment_Platform)
-
-- **YouTube AI Summary Chrome Extension** - A browser extension that leverages Google Gemini API to generate intelligent summaries of YouTube video transcripts.
-  - _Tech: Chrome Extension API, Gemini API, JavaScript_
-  - [🔗 Repository](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)
-
-#### 🛍️ Full-Stack E-Commerce & Business Solutions
-
-- **Walmart FullStack** - A feature-rich e-commerce platform replicating Walmart's functionality with complete MERN stack implementation and robust user authentication.
-
-  - _Tech: MERN Stack, Authentication, Payment Integration_
-  - [🔗 Repository](https://github.com/shikhar1504/Walmart_FullStack)
-
-- **Walmart ML** - Machine learning solution using XGBoost to optimize pricing strategies for Walmart products, incorporating confidence scores for better decision-making.
-  - _Tech: XGBoost, Machine Learning, Data Science, Python_
-  - [🔗 Repository](https://github.com/shikhar1504/Walmart_ML)
-
-#### 📝 Content Management & Blogging
-
-- **AuroraBlog** - A modern MERN stack blogging platform with user authentication, author dashboards, and seamless dark/light mode switching.
-
-  - _Tech: MERN Stack, Authentication, Responsive Design_
-  - [🔗 Repository](https://github.com/shikhar1504/AuroraBlog)
-
-- **Booklog** - A comprehensive book management application for tracking, reviewing, and organizing personal libraries with advanced sorting and filtering.
-  - _Tech: Node.js, Express.js, EJS, PostgreSQL_
-  - [🔗 Repository](https://github.com/shikhar1504/booklog)
-
-#### 🎮 Interactive Web Applications
-
-- **Space Game** - An engaging browser-based space shooter game featuring dynamic gameplay, score tracking, and responsive controls.
-
-  - _Tech: HTML, CSS, JavaScript, Canvas API_
-  - [🔗 Repository](https://github.com/shikhar1504/space-game)
-
-- **MovieFlix** - A movie discovery platform integrated with TMDb API, offering detailed movie information and user-friendly browsing experience.
-  - _Tech: Node.js, Express.js, EJS, TMDb API_
-  - [🔗 Repository](https://github.com/shikhar1504/MovieFlix)
-
-#### 🤖 Machine Learning Projects
-
-- **Rainfall Prediction** - A predictive model using Random Forest Classifier to forecast rainfall based on comprehensive weather parameters.
-  - _Tech: Machine Learning, Random Forest, Weather Forecasting, Python_
-  - [🔗 Repository](https://github.com/shikhar1504/Rainfall-Prediction)
-
-#### 💼 Professional Portfolio
-
-- **Portfolio FullStack** - A complete MERN stack portfolio website featuring a public showcase, admin dashboard, and secure backend for content management.
-  - _Tech: MERN Stack, Admin Dashboard, File Uploads, Authentication_
-  - [🔗 Repository](https://github.com/shikhar1504/Portfolio_FullStack)
-
-> 🌟 _Explore all my projects on my GitHub profile for more innovative solutions!_
 
 ---
 
@@ -200,29 +139,65 @@ Here are some of my key projects that demonstrate my skills across different dom
 
 ---
 
-### 💬 Let's Discuss:
+### 💬 What I Can Do
 
-- 🔧 Full-Stack Development with MERN Stack and Next.js
-- 🌐 Creating responsive, dynamic web applications
-- ⚛️ Frontend development using React, Next.js, Redux, and modern UI frameworks
-- ⚙️ Backend development with Node.js, Express.js, and API design
-- 🛢️ Database management with MongoDB, PostgreSQL, and Firebase
-- 🎨 UI/UX principles and responsive design with Tailwind, Bootstrap, Material UI
-- 🧪 Third-party API integrations and payment gateways
-- 🚀 Application deployment on Vercel, Netlify, Render
-- 🧰 Git version control and collaborative development
-- 📦 Package management with npm and yarn
-- 📚 Data Structures & Algorithms problem-solving
-- 💬 Real-time features with Socket.IO
-- 🔒 Secure authentication with JWT and best practices
-- 🤖 AI/ML model integration and development
-- 📈 Building scalable, modular codebases
+Based on my diverse project portfolio, here's what I excel at:
+
+#### 🚀 **AI-Powered Development**
+
+- Building intelligent applications using Google Gemini API for content generation and AI analysis
+- Integrating AI features like symptom analysis, course generation, and automated summarization
+- Developing Chrome extensions with AI capabilities for productivity enhancement
+
+#### 🛍️ **Full-Stack E-Commerce Solutions**
+
+- Creating scalable e-commerce platforms with complete MERN stack implementation
+- Implementing robust authentication systems and payment processing (Stripe integration)
+- Developing machine learning models for pricing optimization and business intelligence
+
+#### 📝 **Content Management Systems**
+
+- Designing modern blogging platforms with user authentication and admin dashboards
+- Building book management applications with advanced sorting and filtering capabilities
+- Creating responsive web applications with dark/light mode functionality
+
+#### 🎮 **Interactive Web Applications**
+
+- Developing engaging browser-based games with HTML5 Canvas and JavaScript
+- Creating interactive web experiences with animations and responsive design
+- Building movie/TV show discovery platforms with third-party API integrations
+
+#### 🤖 **Machine Learning & Data Science**
+
+- Implementing predictive models using Random Forest and XGBoost algorithms
+- Developing weather forecasting systems and pricing optimization solutions
+- Working with data analysis tools like Pandas, NumPy, and scikit-learn
+
+#### 💼 **Professional Portfolio Development**
+
+- Creating full-stack portfolio websites with admin dashboards and secure backends
+- Implementing file upload functionality and content management systems
+- Building responsive, modern UIs with React, Next.js, and various styling frameworks
+
+#### 🔧 **Technical Expertise Areas**
+
+- **Frontend**: React, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI, Framer Motion
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Firebase, RESTful APIs
+- **AI/ML**: Google Gemini, TensorFlow, scikit-learn, XGBoost, predictive modeling
+- **Tools**: Git, Docker, Vercel, Netlify, Stripe, Clerk, authentication systems
+- **DSA**: Java-based algorithm implementations across arrays, graphs, dynamic programming, etc.
 
 ---
 
 ### 📫 Get In Touch:
 
 **shikharsinha117@gmail.com**
+
+---
+
+### ⚡ Coding Vibes:
+
+💡 I boost my debugging skills with lo-fi beats in the background — it's my secret productivity hack!
 
 ---
 
@@ -234,5 +209,14 @@ Here are some of my key projects that demonstrate my skills across different dom
 </a>
 <a href="https://instagram.com/shikharsinha154" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/shikharsinha117" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/shikhar0105" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/dashboard" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
 </p>
