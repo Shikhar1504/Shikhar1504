@@ -139,53 +139,24 @@
 
 ---
 
-### 💬 What I Can Do
+### 💬 Let's Discuss:
 
-Based on my diverse project portfolio, here's what I excel at:
+- 🔧 Full-Stack Development with MERN Stack and Next.js
+- 🌐 Creating responsive, dynamic web applications
+- ⚛️ Frontend development using React, Next.js, Redux, and modern UI frameworks
+- ⚙️ Backend development with Node.js, Express.js, and API design
+- 🛢️ Database management with MongoDB, PostgreSQL, and Firebase
+- 🎨 UI/UX principles and responsive design with Tailwind, Bootstrap, Material UI
+- 🧪 Third-party API integrations and payment gateways
+- 🚀 Application deployment on Vercel, Netlify, Render
+- 🧰 Git version control and collaborative development
+- 📦 Package management with npm and yarn
+- 📚 Data Structures & Algorithms problem-solving
+- 💬 Real-time features with Socket.IO
+- 🔒 Secure authentication with JWT and best practices
+- 🤖 AI/ML model integration and development
+- 📈 Building scalable, modular codebases
 
-#### 🚀 **AI-Powered Development**
-
-- Building intelligent applications using Google Gemini API for content generation and AI analysis
-- Integrating AI features like symptom analysis, course generation, and automated summarization
-- Developing Chrome extensions with AI capabilities for productivity enhancement
-
-#### 🛍️ **Full-Stack E-Commerce Solutions**
-
-- Creating scalable e-commerce platforms with complete MERN stack implementation
-- Implementing robust authentication systems and payment processing (Stripe integration)
-- Developing machine learning models for pricing optimization and business intelligence
-
-#### 📝 **Content Management Systems**
-
-- Designing modern blogging platforms with user authentication and admin dashboards
-- Building book management applications with advanced sorting and filtering capabilities
-- Creating responsive web applications with dark/light mode functionality
-
-#### 🎮 **Interactive Web Applications**
-
-- Developing engaging browser-based games with HTML5 Canvas and JavaScript
-- Creating interactive web experiences with animations and responsive design
-- Building movie/TV show discovery platforms with third-party API integrations
-
-#### 🤖 **Machine Learning & Data Science**
-
-- Implementing predictive models using Random Forest and XGBoost algorithms
-- Developing weather forecasting systems and pricing optimization solutions
-- Working with data analysis tools like Pandas, NumPy, and scikit-learn
-
-#### 💼 **Professional Portfolio Development**
-
-- Creating full-stack portfolio websites with admin dashboards and secure backends
-- Implementing file upload functionality and content management systems
-- Building responsive, modern UIs with React, Next.js, and various styling frameworks
-
-#### 🔧 **Technical Expertise Areas**
-
-- **Frontend**: React, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI, Framer Motion
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Firebase, RESTful APIs
-- **AI/ML**: Google Gemini, TensorFlow, scikit-learn, XGBoost, predictive modeling
-- **Tools**: Git, Docker, Vercel, Netlify, Stripe, Clerk, authentication systems
-- **DSA**: Java-based algorithm implementations across arrays, graphs, dynamic programming, etc.
 
 ---
 
