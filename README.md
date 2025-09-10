@@ -194,29 +194,3 @@ Based on my diverse project portfolio, here's what I excel at:
 **shikharsinha117@gmail.com**
 
 ---
-
-### ⚡ Coding Vibes:
-
-💡 I boost my debugging skills with lo-fi beats in the background — it's my secret productivity hack!
-
----
-
-### 🔗 Let's Connect:
-
-<p align="left">
-<a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/shikharsinha154" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/shikharsinha117" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/shikhar0105" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/dashboard" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-</p>
