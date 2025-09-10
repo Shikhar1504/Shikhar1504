@@ -125,6 +125,9 @@
 - 🏥 [CareMeet – Doctors Appointment Platform](https://caremeet.vercel.app/)  
   A telemedicine platform with **AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design**.
 
+- 🔌 [YouTube AI Summary — Chrome Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)  
+  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts for faster consumption.
+
 - 🌌 [Space Background (NPM Package)](https://www.npmjs.com/package/space-background)  
   A customizable animated React component for interactive space backgrounds — published on npm.
 
@@ -139,9 +142,6 @@
 
 - 🎬 [MovieFlix](https://movie-flix-shikhar.vercel.app/)  
   Movie & TV explorer powered by the **TMDb API** with search and detail pages.
-
-- 🔌 [YouTube AI Summary — Chrome Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)  
-  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts for faster consumption.
 
 - 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
   A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
