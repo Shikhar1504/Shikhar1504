@@ -9,18 +9,22 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently diving deeper into **Data Structures & Algorithms (DSA)**, **MERN Stack**, and **AI/ML Technologies**
-- 💡 I love solving real-world problems through code, building full-stack applications, and integrating AI solutions
-- 🧠 Passionate about **Competitive Programming**, Full-Stack Web Development, AI Engineering & Open Source
-- 💬 Ask me about anything **MERN stack, React, Node.js, AI/ML, or CP-related**
+- 🌱 Currently mastering **Data Structures & Algorithms (DSA)** in Java, **MERN Stack**, and **AI/ML Technologies**
+- 💡 Passionate about solving complex problems through code, developing innovative full-stack applications, and leveraging AI for real-world solutions
+- 🧠 Enthusiastic about **Competitive Programming**, Full-Stack Web Development, AI Engineering, and contributing to Open Source
+- 💬 Feel free to ask me about **MERN stack, React, Node.js, AI/ML implementations, or competitive programming strategies**
 - 📫 Reach me at: **shikharsinha117@gmail.com**
-- 🔗 Portfolio: [shikharsinha.netlify.app](https://shikharsinha.netlify.app/)
+- 🔗 Check out my portfolio: [shikharsinha.netlify.app](https://shikharsinha.netlify.app/)
 
 ---
 
 ### 🏆 GitHub Achievements
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=dracula&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review" alt="GitHub Trophies" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=dracula&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -44,107 +48,133 @@
 
 ### 🛠 Tech Stack
 
-#### 💻 Languages
+#### 💻 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🎨 Frontend
+#### 🎨 Frontend Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </p>
 
 #### 🔧 Backend & Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-#### 🤖 AI & ML
+#### 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google--Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
-#### 🛠 Tools & Platforms
+#### 🛠 Development Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C58E?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 📂 My Projects Showcase
 
-Here are some of my notable projects:
+Here are some of my key projects that demonstrate my skills across different domains:
 
-- 🤖 **AI Learning Management System** – AI-powered LMS platform that generates courses, notes, flashcards, and quizzes using Google Gemini API. Built with Next.js, Stripe, Clerk, Inngest, and Drizzle ORM.
+#### 🚀 AI-Powered Applications
 
-  - [GitHub Repo](https://github.com/shikhar1504/AI_Learning_Management_System)
+- **AI Learning Management System** - An intelligent LMS that uses Google Gemini API to generate personalized courses, notes, flashcards, and quizzes. Features Stripe integration for payments and Clerk for authentication.
 
-- 🏥 **Doctors Appointment Platform (CareMeet)** – Next.js 15 telemedicine platform with AI symptom analysis (Google Gemini), video consultations (Vonage), multi-role auth (Clerk), and HIPAA-compliant design.
+  - _Tech: Next.js, Stripe, Clerk, Inngest, Drizzle ORM, Gemini API_
+  - [🔗 Repository](https://github.com/shikhar1504/AI_Learning_Management_System)
 
-  - [GitHub Repo](https://github.com/shikhar1504/Doctors_Appointment_Platform)
+- **Doctors Appointment Platform (CareMeet)** - A comprehensive telemedicine solution with AI-powered symptom analysis using Google Gemini, video consultations via Vonage, and HIPAA-compliant design.
 
-- 🛍️ **Walmart FullStack** – Scalable e-commerce platform mimicking Walmart's core functionalities with full MERN stack and user authentication.
+  - _Tech: Next.js 15, Gemini API, Vonage Video API, Clerk, Neon DB_
+  - [🔗 Repository](https://github.com/shikhar1504/Doctors_Appointment_Platform)
 
-  - [GitHub Repo](https://github.com/shikhar1504/Walmart_FullStack)
+- **YouTube AI Summary Chrome Extension** - A browser extension that leverages Google Gemini API to generate intelligent summaries of YouTube video transcripts.
+  - _Tech: Chrome Extension API, Gemini API, JavaScript_
+  - [🔗 Repository](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)
 
-- 💼 **Portfolio FullStack** – Full-stack MERN portfolio with public website, admin dashboard, and secure backend API.
+#### 🛍️ Full-Stack E-Commerce & Business Solutions
 
-  - [GitHub Repo](https://github.com/shikhar1504/Portfolio_FullStack)
+- **Walmart FullStack** - A feature-rich e-commerce platform replicating Walmart's functionality with complete MERN stack implementation and robust user authentication.
 
-- 📝 **AuroraBlog** – Full-stack MERN blog application with user authentication, blog creation/management, author dashboards, and responsive design with dark/light mode.
+  - _Tech: MERN Stack, Authentication, Payment Integration_
+  - [🔗 Repository](https://github.com/shikhar1504/Walmart_FullStack)
 
-  - [GitHub Repo](https://github.com/shikhar1504/AuroraBlog)
+- **Walmart ML** - Machine learning solution using XGBoost to optimize pricing strategies for Walmart products, incorporating confidence scores for better decision-making.
+  - _Tech: XGBoost, Machine Learning, Data Science, Python_
+  - [🔗 Repository](https://github.com/shikhar1504/Walmart_ML)
 
-- 🎮 **Space Game** – Browser-based space shooter game built with HTML, CSS, and JavaScript.
+#### 📝 Content Management & Blogging
 
-  - [GitHub Repo](https://github.com/shikhar1504/space-game)
+- **AuroraBlog** - A modern MERN stack blogging platform with user authentication, author dashboards, and seamless dark/light mode switching.
 
-- 📚 **Booklog** – Web application for managing and reviewing books, built with Node.js, Express.js, EJS, and PostgreSQL.
+  - _Tech: MERN Stack, Authentication, Responsive Design_
+  - [🔗 Repository](https://github.com/shikhar1504/AuroraBlog)
 
-  - [GitHub Repo](https://github.com/shikhar1504/booklog)
+- **Booklog** - A comprehensive book management application for tracking, reviewing, and organizing personal libraries with advanced sorting and filtering.
+  - _Tech: Node.js, Express.js, EJS, PostgreSQL_
+  - [🔗 Repository](https://github.com/shikhar1504/booklog)
 
-- 🌧️ **Rainfall Prediction** – Machine learning project using Random Forest Classifier to predict rainfall based on weather parameters.
+#### 🎮 Interactive Web Applications
 
-  - [GitHub Repo](https://github.com/shikhar1504/Rainfall-Prediction)
+- **Space Game** - An engaging browser-based space shooter game featuring dynamic gameplay, score tracking, and responsive controls.
 
-- 🛒 **Walmart ML** – ML project using XGBoost to predict optimal pricing strategies for Walmart products.
-  - [GitHub Repo](https://github.com/shikhar1504/Walmart_ML)
+  - _Tech: HTML, CSS, JavaScript, Canvas API_
+  - [🔗 Repository](https://github.com/shikhar1504/space-game)
 
-> 🧩 _Check out more on my GitHub profile!_
+- **MovieFlix** - A movie discovery platform integrated with TMDb API, offering detailed movie information and user-friendly browsing experience.
+  - _Tech: Node.js, Express.js, EJS, TMDb API_
+  - [🔗 Repository](https://github.com/shikhar1504/MovieFlix)
+
+#### 🤖 Machine Learning Projects
+
+- **Rainfall Prediction** - A predictive model using Random Forest Classifier to forecast rainfall based on comprehensive weather parameters.
+  - _Tech: Machine Learning, Random Forest, Weather Forecasting, Python_
+  - [🔗 Repository](https://github.com/shikhar1504/Rainfall-Prediction)
+
+#### 💼 Professional Portfolio
+
+- **Portfolio FullStack** - A complete MERN stack portfolio website featuring a public showcase, admin dashboard, and secure backend for content management.
+  - _Tech: MERN Stack, Admin Dashboard, File Uploads, Authentication_
+  - [🔗 Repository](https://github.com/shikhar1504/Portfolio_FullStack)
+
+> 🌟 _Explore all my projects on my GitHub profile for more innovative solutions!_
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
@@ -156,7 +186,7 @@ Here are some of my notable projects:
 
 ---
 
-### 🔥 Contribution Graph
+### 🔥 Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=react-dark" alt="Contribution Graph"/>
@@ -166,38 +196,43 @@ Here are some of my notable projects:
 
 ### 🧠 Fun Fact
 
-> I debug code like a detective on a crime scene — one console log at a time 🕵️‍♂️
+> I approach debugging like solving a mystery novel — each console.log is a clue leading to the solution! 🕵️‍♂️
 
 ---
 
-### 💬 Ask me about:
+### 💬 Let's Discuss:
 
-- 🔧 Full Stack Web Development (MERN Stack + Next.js)
-- 🌐 Building responsive and dynamic web applications
-- ⚛️ Frontend development with React.js, Next.js, Redux, and modern UI libraries
-- ⚙️ Backend development with Node.js and Express.js
-- 🛢️ Working with MongoDB, Mongoose, and RESTful APIs
-- 🎨 UI/UX design principles and responsive layouts using Bootstrap, Tailwind CSS, and Material UI
-- 🧪 Integration of APIs and third-party services (e.g., payment gateways, auth providers)
-- 🚀 Deploying apps on Render, Vercel, Netlify, and MongoDB Atlas
-- 🧰 Version control using Git & GitHub
+- 🔧 Full-Stack Development with MERN Stack and Next.js
+- 🌐 Creating responsive, dynamic web applications
+- ⚛️ Frontend development using React, Next.js, Redux, and modern UI frameworks
+- ⚙️ Backend development with Node.js, Express.js, and API design
+- 🛢️ Database management with MongoDB, PostgreSQL, and Firebase
+- 🎨 UI/UX principles and responsive design with Tailwind, Bootstrap, Material UI
+- 🧪 Third-party API integrations and payment gateways
+- 🚀 Application deployment on Vercel, Netlify, Render
+- 🧰 Git version control and collaborative development
 - 📦 Package management with npm and yarn
-- 📚 Problem-solving using Data Structures & Algorithms
-- 💬 Building and integrating chatbots and real-time features using Socket.IO
-- 🔒 Implementing JWT Authentication and secure practices
-- 🤖 AI/ML integration and development
-- 📈 Working on scalable and modular codebases
+- 📚 Data Structures & Algorithms problem-solving
+- 💬 Real-time features with Socket.IO
+- 🔒 Secure authentication with JWT and best practices
+- 🤖 AI/ML model integration and development
+- 📈 Building scalable, modular codebases
 
 ---
 
-### 📫 How to reach me:
+### 📫 Get In Touch:
 
 **shikharsinha117@gmail.com**
 
 ---
 
-### ⚡ Fun fact:
+### 🔗 Let's Connect:
 
-💡 I can debug better with music playing in the background — lo-fi beats are my secret weapon!
-
----
+<p align="left">
+<a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/shikharsinha154" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
