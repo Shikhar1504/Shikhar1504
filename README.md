@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=dracula&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review" alt="GitHub Trophies" /> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Shikhar1504&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review,MultiLanguage" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shikhar1504&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
