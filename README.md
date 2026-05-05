@@ -93,6 +93,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Concurrency_Control-FF0000?style=for-the-badge" />
 </p>
 
 #### 🤖 AI & Machine Learning
@@ -105,6 +108,10 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/Random_Forest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-Gemini/OpenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Caching-FF6F00?style=for-the-badge" />
 </p>
 
 #### 🛠 Development Tools
