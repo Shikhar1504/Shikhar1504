@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
-<h3 align="center">💻 Competitive Programmer | 🔧 Full-Stack Developer | 🤖 AI Engineer | 🔍 Tech Explorer</h3>
+<h3 align="center">💻 Full-Stack Developer | ⚙️ Backend Systems | 🤖 AI/ML Engineer | 🧠 Codeforces Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,10 +9,11 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently mastering **Data Structures & Algorithms (DSA)** in Java, **MERN Stack**, and **AI/ML Technologies**
-- 💡 Passionate about solving complex problems through code, developing innovative full-stack applications, and leveraging AI for real-world solutions
-- 🧠 Enthusiastic about **Competitive Programming**, Full-Stack Web Development, AI Engineering, and contributing to Open Source
-- 💬 Feel free to ask me about **MERN stack, React, Node.js, AI/ML implementations, or competitive programming strategies**
+- 🚀 Full-stack developer with strong focus on **scalable backend systems and AI-powered applications**
+- 🧠 **Codeforces Expert** with strong problem-solving skills and deep understanding of Data Structures & Algorithms
+- 🤖 Building **AI/ML systems** using LLMs, RAG, and real-world integrations
+- 💡 Passionate about designing **reliable, high-performance systems** and solving complex engineering problems
+- 💬 Feel free to ask me about **backend systems, MERN stack, AI/ML applications, or competitive programming**
 - 📫 Reach me at: **shikharsinha117@gmail.com**
 - 🔗 Check out my portfolio: [shikharsinha.netlify.app](https://shikharsinha.netlify.app/)
 
