@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
-<h3 align="center">💻 Full-Stack Developer | ⚙️ Backend Systems | 🤖 AI/ML Engineer | 🧠 Competitive Programmer</h3>
+<h3 align="center">💻 Full-Stack Developer | 🧠 Competitive Programmer | ⚙️ Backend Systems | 🤖 AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🚀 Full-stack developer with strong focus on **scalable backend systems and AI-powered applications**
+- 🚀 Full-stack developer building scalable frontend and backend systems with strong focus on **performance and system design**
 - 🧠 **Codeforces Expert** with strong problem-solving skills and deep understanding of Data Structures & Algorithms
-- 🤖 Building **AI/ML systems** using LLMs, RAG, and real-world integrations
+- 🤖 Exploring **AI/ML systems** including LLMs, RAG, and model-based solutions
 - 💡 Passionate about designing **reliable, high-performance systems** and solving complex engineering problems
 - 💬 Feel free to ask me about **backend systems, MERN stack, AI/ML applications, or competitive programming**
 - 📫 Reach me at: **shikharsinha117@gmail.com**
@@ -189,7 +189,7 @@
 - 🧠 Data Structures & Algorithms for problem solving
 - 🔄 Real-time systems and event-driven architectures (Socket.IO)
 - 🔐 Secure authentication and authorization (JWT, best practices)
-- 🤖 AI/ML systems integration (LLMs, RAG, APIs)
+- 🤖 AI/ML systems and model-based applications
 - 📈 Designing scalable, modular, and production-ready systems
 
 ---
