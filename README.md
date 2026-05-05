@@ -40,19 +40,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/shikharsinha154" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:shikharsinha117@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
+  <a href="mailto:shikharsinha117@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://shikharsinha.netlify.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" width="40" />
   </a>
 </p>
 
@@ -176,21 +173,29 @@
 
 ### 💬 Let's Discuss:
 
-- 🔧 Full-Stack Development with MERN Stack and Next.js
-- 🌐 Creating responsive, dynamic web applications
-- ⚛️ Frontend development using React, Next.js, Redux, and modern UI frameworks
-- ⚙️ Backend development with Node.js, Express.js, and API design
-- 🛢️ Database management with MongoDB, PostgreSQL, and Firebase
-- 🎨 UI/UX principles and responsive design with Tailwind, Bootstrap, Material UI
-- 🧪 Third-party API integrations and payment gateways
-- 🚀 Application deployment on Vercel, Netlify, Render
-- 🧰 Git version control and collaborative development
-- 📦 Package management with npm and yarn
-- 📚 Data Structures & Algorithms problem-solving
-- 💬 Real-time features with Socket.IO
-- 🔒 Secure authentication with JWT and best practices
-- 🤖 AI/ML model integration and development
-- 📈 Building scalable, modular codebases
+- ⚙️ Full-Stack Development using MERN Stack and Next.js
+- 🌐 Building scalable, responsive, and dynamic web applications
+- ⚛️ Frontend engineering with React, Next.js, Redux, and modern UI frameworks
+- 🔧 Backend systems with Node.js, Express.js, and robust API design
+- 🛢️ Database design and management with MongoDB and PostgreSQL
+- 🎨 UI systems and responsive design using Tailwind, Bootstrap, and Material UI
+- 🔗 Third-party API integrations and payment systems
+- 🚀 Deployment and production workflows (Vercel, Netlify, Render)
+- 🧰 Version control and collaborative development using Git & GitHub
+- 📦 Dependency and package management (npm, yarn)
+- 🧠 Data Structures & Algorithms for problem solving
+- 🔄 Real-time systems and event-driven architectures (Socket.IO)
+- 🔐 Secure authentication and authorization (JWT, best practices)
+- 🤖 AI/ML systems integration (LLMs, RAG, APIs)
+- 📈 Designing scalable, modular, and production-ready systems
+
+---
+
+### 🧠 Competitive Programming
+
+- 🏆 Codeforces Expert
+- 💻 Strong in Data Structures & Algorithms
+- ⚡ Experienced in solving complex algorithmic problems under time constraints
 
 ---
 
