@@ -135,8 +135,11 @@
   <tr>
     <td width="50%" valign="top">
       
+- 🏦 [AegisLedger – Core Banking Backend](https://aegisledger.vercel.app/)  
+  A system-level banking backend ensuring **transaction consistency, idempotency, and concurrency safety** using Node.js, MongoDB transactions, and scalable architecture.
+
 - 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
-  An AI-powered LMS that generates courses, notes, flashcards, and quizzes using **Gemini, Stripe, Clerk, Drizzle ORM, and Next.js**.
+  An AI-powered learning platform using **RAG, vector embeddings, and async pipelines** to generate structured courses with scalable backend architecture.
 
 - 🏥 [CareMeet – Doctors Appointment Platform](https://caremeet.vercel.app/)  
   A telemedicine platform with **AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design**.
