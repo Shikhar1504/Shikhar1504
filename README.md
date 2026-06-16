@@ -2,29 +2,17 @@
 
 <!-- Clean Typing Animation Header -->
 <a href="https://github.com/Shikhar1504">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+high-concurrency+backend+systems+🚀;Codeforces+Expert+(1644)+•+LeetCode+Knight+(1857);Building+resilient+AI+%26+Full-Stack+architectures;Open+to+SDE+%26+AI/ML+Opportunities!&font=Fira+Code&center=true&width=750&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+high-concurrency+backend+systems+🚀;Codeforces+Expert+(1644)+•+LeetCode+Knight+(1857);Building+Agentic+AI+%26+Gen+AI+architectures;Open+to+SDE+%26+AI/ML+Opportunities!&font=Fira+Code&center=true&width=750&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
 
-<h3 align="center">Full-Stack Developer | Competitive Programmer | Backend Systems | AI/ML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
+<h3 align="center">Full-Stack Developer | Competitive Programmer | Backend Systems | Gen AI & Agentic AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Codeforces-Expert%201644-blue?style=flat&logo=codeforces" />
   <img src="https://img.shields.io/badge/LeetCode-Knight%201857-orange?style=flat&logo=leetcode" />
   <img src="https://img.shields.io/badge/CodeChef-3%20Star%201721-brown?style=flat" />
-</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://shikharsinha.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shikharsinha117@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
 
 </div>
@@ -35,10 +23,10 @@
 
 - 🎓 Pursuing **B.E. in Electronics & Communication Engineering** at **Bangalore Institute of Technology** (Expected May 2027) — **GPA: 8.69**
 - 💻 Passionate about designing **reliable, high-concurrency backend systems**, ensuring strict data consistency, and solving complex engineering bottlenecks.
+- 🤖 Specialized in **Generative AI & Agentic AI** engineering — building event-driven LLM pipelines, autonomous agents, and vector-based semantic retrieval architectures (RAG).
 - ⚡ **Top-tier Competitive Programmer:** Expert on Codeforces, Knight on LeetCode, and 3-Star on CodeChef.
 - 🏆 Advanced to **Round 2 of the 2025 Meta Hacker Cup** (Top 1200 globally) and secured **Global Rank 1312 in TCS CodeVita Season 13**.
-- 🤖 Currently engineering event-driven AI pipelines and vector-based retrieval systems utilizing LLMs and modern data architectures.
-- 💬 Ask me about: **MERN Stack, System Design, AI/ML integrations, or DSA optimization**.
+- 💬 Ask me about: **System Design, Agentic AI architectures, Backend Concurrency, or DSA optimization**.
 
 ---
 
@@ -54,15 +42,20 @@ A production-grade banking system engineered for high concurrency and financial 
 
 An AI-powered Learning Management System utilizing an **event-driven async pipeline (Inngest)** to generate end-to-end courses without blocking APIs. Engineered a vector-based semantic caching layer using **pgvector** to drastically reduce AI response latency. Ensured rock-solid data integrity through atomic multi-table PostgreSQL transactions.
 
+### 📍 [Real-Time Device Tracking](https://github.com/Shikhar1504/Real-Time-Device-Tracking)
+> **Node.js · TypeScript · Express · Socket.IO · Leaflet**
+
+A production-grade, horizontally scalable real-time location tracking system. Utilizes bi-directional event-driven communication via Socket.IO for minimal latency and dynamic map rendering with Leaflet.
+
 ### 🏥 [CareMeet – Telemedicine Platform](https://caremeet.vercel.app/)
 > **Next.js 15 · Gemini API · Vonage · Clerk**
 
 A secure telemedicine portal integrating an AI-driven symptom analyzer. Built with a HIPAA-conscious design, it features multi-role access control, transaction-safe appointment booking, and real-time video consultations.
 
-### 🔌 [YouTube AI Summary Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)
-> **JavaScript · Chrome Extensions API · Google Gemini API**
+### 🌧️ [Rainfall Prediction ML Model](https://github.com/shikhar1504/Rainfall-Prediction)
+> **Python · scikit-learn · Random Forest · Pandas**
 
-A lightweight browser extension that extracts video transcripts and interfaces with the Gemini API to generate structured, actionable insights instantly.
+A machine learning data science project that cleans and processes large meteorological datasets to predict rainfall using a highly tuned Random Forest Classifier.
 
 ---
 
@@ -90,23 +83,25 @@ A lightweight browser extension that extracts video transcripts and interfaces w
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### Gen AI, Agentic AI & Machine Learning
+![Gen AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-336791?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Backend & Databases
+### Backend, Databases & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Architecture, AI & DevOps
 ![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge)
+
+### Frontend & DevOps
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -128,6 +123,20 @@ A lightweight browser extension that extracts video transcripts and interfaces w
 </p>
 
 ---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://shikharsinha.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View-Portfolio-0F4539?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:shikharsinha117@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" width="100%"/>
