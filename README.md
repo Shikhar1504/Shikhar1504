@@ -1,223 +1,135 @@
-<h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
-<h3 align="center">💻 Full-Stack Developer | 🧠 Competitive Programmer | ⚙️ Backend Systems | 🤖 AI/ML Engineer</h3>
+<div align="center">
+
+<!-- Clean Typing Animation Header -->
+<a href="https://github.com/Shikhar1504">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+high-concurrency+backend+systems+🚀;Codeforces+Expert+(1644)+•+LeetCode+Knight+(1857);Building+resilient+AI+%26+Full-Stack+architectures;Open+to+SDE+%26+AI/ML+Opportunities!&font=Fira+Code&center=true&width=750&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+</a>
+
+<h3 align="center">Full-Stack Developer | Competitive Programmer | Backend Systems | AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Codeforces-Expert%201644-blue?style=flat&logo=codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight%201857-orange?style=flat&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star%201721-brown?style=flat" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🚀 Full-stack developer building scalable frontend and backend systems with strong focus on **performance and system design**
-- 🧠 **Codeforces Expert** with strong problem-solving skills and deep understanding of Data Structures & Algorithms
-- 🤖 Exploring **AI/ML systems** including LLMs, RAG, and model-based solutions
-- 💡 Passionate about designing **reliable, high-performance systems** and solving complex engineering problems
-- 💬 Feel free to ask me about **backend systems, MERN stack, AI/ML applications, or competitive programming**
-- 📫 Reach me at: **shikharsinha117@gmail.com**
-- 🔗 Check out my portfolio: [shikharsinha.netlify.app](https://shikharsinha.netlify.app/)
-
----
-
-### 🧠 Fun Fact
-
-> I approach debugging like solving a mystery novel — each console.log is a clue leading to the solution! 🕵️‍♂️
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=shikhar1504&theme=dracula&title=Experience,Commit,Issue,PullRequest,Repositories,Stars,Follower,Review" alt="GitHub Trophies" /> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Shikhar1504&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect with Me
-
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/shikharsinha154" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:shikharsinha117@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://shikharsinha.netlify.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" />
+    <img src="https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:shikharsinha117@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
-
-### 🛠 Tech Stack
-
-#### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🎨 Frontend Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-#### 🔧 Backend & Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Concurrency_Control-FF0000?style=for-the-badge" />
-</p>
-
-#### 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Random_Forest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-Gemini/OpenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic_Caching-FF6F00?style=for-the-badge" />
-</p>
-
-#### 🛠 Development Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C58E?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-- 🏦 [AegisLedger – Core Banking Backend](https://aegisledger.vercel.app/)  
-  A system-level banking backend ensuring **transaction consistency, idempotency, and concurrency safety** using Node.js, MongoDB transactions, and scalable architecture.
-
-- 🧠 [AI Learning Management System](https://learnforgeai.vercel.app/)  
-  An AI-powered learning platform using **RAG, vector embeddings, and async pipelines** to generate structured courses with scalable backend architecture.
-
-- 🏥 [CareMeet – Doctors Appointment Platform](https://caremeet.vercel.app/)  
-  A telemedicine platform with **AI symptom analysis, video consultations (Vonage), multi-role auth (Clerk), and HIPAA-conscious design**.
-
-- 🔌 [YouTube AI Summary — Chrome Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)  
-  A Chrome extension that uses the **Google Gemini API** to generate AI-powered summaries of YouTube video transcripts.
-
-- 🌌 [Space Background (NPM Package)](https://www.npmjs.com/package/space-background)  
-  A customizable animated React component for interactive space backgrounds — published on npm.
-
-    </td>
-    <td width="50%" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;  
-- 🎮 [Space Game](https://shikhar1504.github.io/space-game/)  
-  A browser-based space shooter game built with **HTML, CSS, and JavaScript** (asteroids, scoring, health).
-
-- ✍️ [Aurora Blog](https://aurora-blogs.netlify.app/)  
-  Full-stack MERN blog app with **authentication, author dashboards, and dark/light mode**.
-
-- 📚 [Booklog](https://booklog-phi.vercel.app/)  
-  A web app to manage and review books using **Node.js, Express, EJS, and PostgreSQL**.
-
-- 🎬 [MovieFlix](https://movie-flix-shikhar.vercel.app/)  
-  Movie & TV explorer powered by the **TMDb API** with search and detail pages.
-
-- 🌧️ [Rainfall Prediction](https://github.com/shikhar1504/Rainfall-Prediction)  
-  A machine learning project that predicts rainfall using a **Random Forest classifier** and meteorological features.
-
-    </td>
-  </tr>
-</table>
-
----
-
-### 💬 Let's Discuss:
-
-- ⚙️ Full-Stack Development using MERN Stack and Next.js
-- 🌐 Building scalable, responsive, and dynamic web applications
-- ⚛️ Frontend engineering with React, Next.js, Redux, and modern UI frameworks
-- 🔧 Backend systems with Node.js, Express.js, and robust API design
-- 🛢️ Database design and management with MongoDB and PostgreSQL
-- 🎨 UI systems and responsive design using Tailwind, Bootstrap, and Material UI
-- 🔗 Third-party API integrations and payment systems
-- 🚀 Deployment and production workflows (Vercel, Netlify, Render)
-- 🧰 Version control and collaborative development using Git & GitHub
-- 📦 Dependency and package management (npm, yarn)
-- 🧠 Data Structures & Algorithms for problem solving
-- 🔄 Real-time systems and event-driven architectures (Socket.IO)
-- 🔐 Secure authentication and authorization (JWT, best practices)
-- 🤖 AI/ML systems and model-based applications
-- 📈 Designing scalable, modular, and production-ready systems
-
----
-
-### 🧠 Competitive Programming
-
-- 🏆 Codeforces Expert
-- 💻 Strong in Data Structures & Algorithms
-- ⚡ Experienced in solving complex algorithmic problems under time constraints
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&theme=algolia" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔥 Activity Overview
+## 🚀 About Me
+
+- 🎓 Pursuing **B.E. in Electronics & Communication Engineering** at **Bangalore Institute of Technology** (Expected May 2027) — **GPA: 8.69**
+- 💻 Passionate about designing **reliable, high-concurrency backend systems**, ensuring strict data consistency, and solving complex engineering bottlenecks.
+- ⚡ **Top-tier Competitive Programmer:** Expert on Codeforces, Knight on LeetCode, and 3-Star on CodeChef.
+- 🏆 Advanced to **Round 2 of the 2025 Meta Hacker Cup** (Top 1200 globally) and secured **Global Rank 1312 in TCS CodeVita Season 13**.
+- 🤖 Currently engineering event-driven AI pipelines and vector-based retrieval systems utilizing LLMs and modern data architectures.
+- 💬 Ask me about: **MERN Stack, System Design, AI/ML integrations, or DSA optimization**.
+
+---
+
+## 🛠️ What I've Built
+
+### 🏦 [AegisLedger – Core Banking Backend](https://aegisledger.vercel.app/)
+> **Node.js · Express · MongoDB · React**
+
+A production-grade banking system engineered for high concurrency and financial safety. Architected an immutable double-entry ledger using **MongoDB transactions** to synchronize data and inherently prevent race-condition overdrafts. Enforced strict **request-level idempotency** via compound unique indexes, eliminating duplicate transactions under network retries and maximizing system reliability. 
+
+### 🧠 [LearnForge – AI Learning Platform](https://learnforgeai.vercel.app/)
+> **Next.js · PostgreSQL · pgvector · Inngest · Gemini API**
+
+An AI-powered Learning Management System utilizing an **event-driven async pipeline (Inngest)** to generate end-to-end courses without blocking APIs. Engineered a vector-based semantic caching layer using **pgvector** to drastically reduce AI response latency. Ensured rock-solid data integrity through atomic multi-table PostgreSQL transactions.
+
+### 🏥 [CareMeet – Telemedicine Platform](https://caremeet.vercel.app/)
+> **Next.js 15 · Gemini API · Vonage · Clerk**
+
+A secure telemedicine portal integrating an AI-driven symptom analyzer. Built with a HIPAA-conscious design, it features multi-role access control, transaction-safe appointment booking, and real-time video consultations.
+
+### 🔌 [YouTube AI Summary Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)
+> **JavaScript · Chrome Extensions API · Google Gemini API**
+
+A lightweight browser extension that extracts video transcripts and interfaces with the Gemini API to generate structured, actionable insights instantly.
+
+---
+
+## 🏆 Competitive Programming & Achievements
+
+| Platform / Event | Rating / Standing | Highlight |
+|---|---|---|
+| **Codeforces** | 1644 (**Expert**) | Global Rank 531 in Educational Round 183 |
+| **LeetCode** | 1857 (**Knight**) | Consistent solver of advanced algorithmic constraints |
+| **CodeChef** | 1721 (**3-Star**) | Global Rank 52 in Starters 211 |
+| **Meta Hacker Cup 2025** | Round 2 Qualifier | Ranked 728th globally in Round 1 |
+| **TCS CodeVita Season 13** | Global Rank 1312 | Recognized for exceptional coding and logic skills |
+| **Hackathons** | Round 2 Qualifier | HackOn With Amazon S5 & Adobe India Hackathon 2025 |
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Architecture, AI & DevOps
+![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Inngest](https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhar1504&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar1504&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar1504&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhar1504&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%"/>
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" width="100%"/>
+  <h3>🕵️‍♂️ Fun Fact: I approach debugging like solving a mystery novel — each console.log is a clue leading to the solution!</h3>
+</div>
