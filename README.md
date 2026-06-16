@@ -34,23 +34,31 @@
 
 ### 🏦 [AegisLedger – Core Banking Backend](https://aegisledger.vercel.app/)
 > **Node.js · Express · MongoDB · React**
-
-A production-grade banking system engineered for high concurrency and financial safety. Architected an immutable double-entry ledger using **MongoDB transactions** to synchronize data and inherently prevent race-condition overdrafts. Enforced strict **request-level idempotency** via compound unique indexes, eliminating duplicate transactions under network retries and maximizing system reliability. 
+* Engineered a high-concurrency banking system using **MongoDB session transactions** to synchronize data and inherently prevent race-condition overdrafts.
+* Enforced strict **request-level idempotency** via compound unique indexes, eliminating duplicate transactions under network retries.
+* Architected an immutable **double-entry ledger** with schema-level hooks to guarantee auditability and financial correctness.
+* Implemented a state-driven transaction lifecycle featuring bounded retries and decoupled event-driven notification handling.
 
 ### 🧠 [LearnForge – AI Learning Platform](https://learnforgeai.vercel.app/)
 > **Next.js · PostgreSQL · pgvector · Inngest · Gemini API**
+* Architected an **event-driven async pipeline (Inngest)** to generate end-to-end courses, keeping API responses under 200ms during heavy LLM workloads.
+* Engineered a vector-based **semantic caching layer (pgvector)** with a two-gate hit detection strategy to drastically reduce redundant LLM calls and latency.
+* Built a custom **RAG pipeline** that chunks, embeds, and indexes course data to ground Gemini API generations and minimize hallucinations.
+* Implemented an adaptive remediation loop that analyzes low quiz scores and automatically generates targeted practice content.
 
-An AI-powered Learning Management System utilizing an **event-driven async pipeline (Inngest)** to generate end-to-end courses without blocking APIs. Engineered a vector-based semantic caching layer using **pgvector** to drastically reduce AI response latency. Ensured rock-solid data integrity through atomic multi-table PostgreSQL transactions.
-
-### 📍 [Real-Time Device Tracking](https://github.com/Shikhar1504/Real-Time-Device-Tracking)
-> **Node.js · TypeScript · Express · Socket.IO · Leaflet**
-
-A production-grade, horizontally scalable real-time location tracking system. Utilizes bi-directional event-driven communication via Socket.IO for minimal latency and dynamic map rendering with Leaflet.
+### 📍 [TrackPulse – Real-Time Geospatial Tracking](https://github.com/Shikhar1504/Real-Time-Device-Tracking)
+> **Node.js · TypeScript · Socket.IO · Redis · Leaflet**
+* Built a horizontally scalable real-time location tracking engine handling high-frequency telemetry with **$O(1)$ spatial grid geofencing**.
+* Implemented defensive backend patterns including token-bucket rate limiting, velocity-based drift filtering, and graceful Redis-to-memory state failovers to protect the event loop.
 
 ### 🏥 [CareMeet – Telemedicine Platform](https://caremeet.vercel.app/)
-> **Next.js 15 · Gemini API · Vonage · Clerk**
+> **Next.js 15 · Gemini API · Vonage · Prisma · PostgreSQL**
+* Developed a secure telemedicine portal integrating **Google Gemini** for symptom analysis and **Vonage API** for WebRTC real-time video consultations.
+* Ensured safe booking and payout execution using atomic PostgreSQL transactions and strict role-based access control.
 
-A secure telemedicine portal integrating an AI-driven symptom analyzer. Built with a HIPAA-conscious design, it features multi-role access control, transaction-safe appointment booking, and real-time video consultations.
+### 🔌 [YouTube AI Summary Extension](https://github.com/shikhar1504/youtube-ai-summary-chrome-extension)
+> **JavaScript · Chrome Extensions API · Google Gemini API**
+* Created a lightweight browser extension that extracts video transcripts and interfaces with the Gemini API to instantly generate structured, actionable summaries.
 
 ---
 
