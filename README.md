@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Clean Typing Animation Header -->
+<!-- Fixed Typing Animation Header -->
 <a href="https://github.com/Shikhar1504">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+high-concurrency+backend+systems+🚀;Codeforces+Expert+(1644)+•+LeetCode+Knight+(1857);Building+Agentic+AI+%26+Gen+AI+architectures;Open+to+SDE+%26+AI/ML+Opportunities!&font=Fira+Code&center=true&width=750&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%26+AI+Engineer;Crafting+high-concurrency+backend+systems;Building+Agentic+AI+%26+RAG+architectures;Codeforces+Expert+%7C+LeetCode+Knight;Open+to+SDE+%26+AI+Engineering+Roles!&font=Fira+Code&center=true&width=800&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Shikhar Sinha</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programmer | Backend Systems | Gen AI & Agentic AI Engineer</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | Backend Systems | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar1504&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -22,11 +22,11 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing **B.E. in Electronics & Communication Engineering** at **Bangalore Institute of Technology** (Expected May 2027) — **GPA: 8.69**
-- 💻 Passionate about designing **reliable, high-concurrency backend systems**, ensuring strict data consistency, and solving complex engineering bottlenecks.
-- 🤖 Specialized in **Generative AI & Agentic AI** engineering — building event-driven LLM pipelines, autonomous agents, and vector-based semantic retrieval architectures (RAG).
-- ⚡ **Top-tier Competitive Programmer:** Expert on Codeforces, Knight on LeetCode, and 3-Star on CodeChef.
-- 🏆 Advanced to **Round 2 of the 2025 Meta Hacker Cup** (Top 1200 globally) and secured **Global Rank 1312 in TCS CodeVita Season 13**.
-- 💬 Ask me about: **System Design, Agentic AI architectures, Backend Concurrency, or DSA optimization**.
+- 💻 **Full-Stack Developer:** Building fast, scalable, and responsive web applications using the modern **MERN Stack** and **Next.js**.
+- ⚙️ **Backend Architect:** Passionate about designing **reliable, high-concurrency systems**, ensuring strict data consistency, and solving complex system design bottlenecks.
+- 🤖 **AI Engineer:** Specialized in **Generative AI & Agentic AI** — building event-driven LLM pipelines, autonomous agents, and vector-based semantic retrieval architectures (RAG) using Python, FastAPI, LangChain, and LangGraph.
+- ⚡ **Competitive Programmer:** Expert on Codeforces and Knight on LeetCode with a deep understanding of Data Structures & Algorithms.
+- 💬 Ask me about: **Full-Stack Development, System Design, AI Architectures, or DSA optimization**.
 
 ---
 
@@ -52,23 +52,27 @@ A production-grade, horizontally scalable real-time location tracking system. Ut
 
 A secure telemedicine portal integrating an AI-driven symptom analyzer. Built with a HIPAA-conscious design, it features multi-role access control, transaction-safe appointment booking, and real-time video consultations.
 
-### 🌧️ [Rainfall Prediction ML Model](https://github.com/shikhar1504/Rainfall-Prediction)
-> **Python · scikit-learn · Random Forest · Pandas**
+---
 
-A machine learning data science project that cleans and processes large meteorological datasets to predict rainfall using a highly tuned Random Forest Classifier.
+## 🧠 Competitive Programming
+
+| Platform | Rating / Level | Highlight |
+|---|---|---|
+| **Codeforces** | **1644 (Expert)** | Global Rank 531 in Educational Round 183 |
+| **LeetCode** | **1857 (Knight)** | Consistent solver of advanced algorithmic constraints |
+| **CodeChef** | **1721 (3-Star)** | Global Rank 52 in Starters 211 |
 
 ---
 
-## 🏆 Competitive Programming & Achievements
+## 🏆 Hackathons & Achievements
 
-| Platform / Event | Rating / Standing | Highlight |
-|---|---|---|
-| **Codeforces** | 1644 (**Expert**) | Global Rank 531 in Educational Round 183 |
-| **LeetCode** | 1857 (**Knight**) | Consistent solver of advanced algorithmic constraints |
-| **CodeChef** | 1721 (**3-Star**) | Global Rank 52 in Starters 211 |
-| **Meta Hacker Cup 2025** | Round 2 Qualifier | Ranked 728th globally in Round 1 |
-| **TCS CodeVita Season 13** | Global Rank 1312 | Recognized for exceptional coding and logic skills |
-| **Hackathons** | Round 2 Qualifier | HackOn With Amazon S5 & Adobe India Hackathon 2025 |
+- 🌍 **Meta Hacker Cup 2025** — Qualified Round 2 (Global Rank 728 in Round 1, 1198 in Round 2)
+- 🌍 **TCS CodeVita Season 13** — Global Rank **1312**
+- 🏢 **HackOn With Amazon Season 5** — Shortlisted for Round 2
+- 🏢 **Adobe India Hackathon 2025** — Shortlisted for Round 2
+- 🏢 **Flipkart GRiD 6.0** — Software Development Track Participant
+- 🏢 **Walmart Sparkathon** — Participant, applying full-stack and algorithmic skills
+- 🏢 **Cisco Champions League** — Participant 
 
 ---
 
@@ -77,17 +81,26 @@ A machine learning data science project that cleans and processes large meteorol
 <div align="center">
 
 ### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Gen AI, Agentic AI & Machine Learning
+### AI Engineering & Machine Learning
 ![Gen AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-336791?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend, Databases & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -96,12 +109,6 @@ A machine learning data science project that cleans and processes large meteorol
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
 ![Inngest](https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge)
-
-### Frontend & DevOps
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -128,13 +135,22 @@ A machine learning data science project that cleans and processes large meteorol
 
 <p align="center">
   <a href="https://linkedin.com/in/shikhar-sinha-b14299249" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://shikharsinha.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/View-Portfolio-0F4539?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F4539?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:shikharsinha117@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/Shikhar0105/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/shikharsinha117" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/shikharsinha15" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
