@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Fixed Typing Animation Header -->
 <a href="https://github.com/Shikhar1504">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%26+AI+Engineer;Crafting+high-concurrency+backend+systems;Building+Agentic+AI+%26+RAG+architectures;Codeforces+Expert+%7C+LeetCode+Knight;Open+to+SDE+%26+AI+Engineering+Roles!&font=Fira+Code&center=true&width=800&height=50&color=0E5484&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
@@ -23,10 +22,11 @@
 
 - 🎓 Pursuing **B.E. in Electronics & Communication Engineering** at **Bangalore Institute of Technology** (Expected May 2027) — **GPA: 8.69**
 - 💻 **Full-Stack Developer:** Building fast, scalable, and responsive web applications using the modern **MERN Stack** and **Next.js**.
-- ⚙️ **Backend Architect:** Passionate about designing **reliable, high-concurrency systems**, ensuring strict data consistency, and solving complex system design bottlenecks.
 - 🤖 **AI Engineer:** Specialized in **Generative AI & Agentic AI** — building event-driven LLM pipelines, autonomous agents, and vector-based semantic retrieval architectures (RAG) using Python, FastAPI, LangChain, and LangGraph.
 - ⚡ **Competitive Programmer:** Expert on Codeforces and Knight on LeetCode with a deep understanding of Data Structures & Algorithms.
+- 🏆 **Achievements:** Advanced to **Round 2 of Meta Hacker Cup 2025**, secured **Global Rank 1312 in TCS CodeVita**, and shortlisted for multiple national hackathons (Amazon, Adobe).
 - 💬 Ask me about: **Full-Stack Development, System Design, AI Architectures, or DSA optimization**.
+- 📫 Reach me at: **shikharsinha117@gmail.com**
 
 ---
 
@@ -54,25 +54,17 @@ A secure telemedicine portal integrating an AI-driven symptom analyzer. Built wi
 
 ---
 
-## 🧠 Competitive Programming
+## 🏆 Competitive Programming & Achievements
 
-| Platform | Rating / Level | Highlight |
+| Platform / Event | Rating / Standing | Highlight |
 |---|---|---|
-| **Codeforces** | **1644 (Expert)** | Global Rank 531 in Educational Round 183 |
-| **LeetCode** | **1857 (Knight)** | Consistent solver of advanced algorithmic constraints |
-| **CodeChef** | **1721 (3-Star)** | Global Rank 52 in Starters 211 |
-
----
-
-## 🏆 Hackathons & Achievements
-
-- 🌍 **Meta Hacker Cup 2025** — Qualified Round 2 (Global Rank 728 in Round 1, 1198 in Round 2)
-- 🌍 **TCS CodeVita Season 13** — Global Rank **1312**
-- 🏢 **HackOn With Amazon Season 5** — Shortlisted for Round 2
-- 🏢 **Adobe India Hackathon 2025** — Shortlisted for Round 2
-- 🏢 **Flipkart GRiD 6.0** — Software Development Track Participant
-- 🏢 **Walmart Sparkathon** — Participant, applying full-stack and algorithmic skills
-- 🏢 **Cisco Champions League** — Participant 
+| **Codeforces** | 1644 (**Expert**) | Global Rank 531 in Educational Round 183 |
+| **LeetCode** | 1857 (**Knight**) | Consistent solver of advanced algorithmic constraints |
+| **CodeChef** | 1721 (**3-Star**) | Global Rank 52 in Starters 211 |
+| **Meta Hacker Cup 2025** | Round 2 Qualifier | Ranked 728th globally in Round 1, 1198 in Round 2 |
+| **TCS CodeVita Season 13** | Global Rank 1312 | Recognized for exceptional coding and logic skills |
+| **Major Hackathons** | Round 2 Shortlists | HackOn With Amazon Season 5 & Adobe India Hackathon 2025 |
+| **Corporate Challenges** | Participant | Flipkart GRiD 6.0, Walmart Sparkathon, Cisco Champions League |
 
 ---
 
@@ -93,6 +85,7 @@ A secure telemedicine portal integrating an AI-driven symptom analyzer. Built wi
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Frontend Technologies
@@ -107,8 +100,14 @@ A secure telemedicine portal integrating an AI-driven symptom analyzer. Built wi
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
 ![Inngest](https://img.shields.io/badge/Async_Workflows-Inngest-6366F1?style=for-the-badge)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
